@@ -109,6 +109,3 @@ $RECYCLE.BIN/
 # Others
 lib/
 data/
-/yarn.lock
-/public/favicon.ico
-/public/index.html
